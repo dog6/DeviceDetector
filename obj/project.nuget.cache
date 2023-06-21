@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/LZ4NqsmvFTKlWQ2Q99ZS1BRwWI5Vwgi/rJQ8glVh7aI3D9Nsdyyu1SjBL/rDvmRS+n33z6F8Q41eNpXXYTxcA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ntibesm\\source\\repos\\DeviceDetector\\DeviceDetector.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ntibesm\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\ntibesm\\.nuget\\packages\\system.management\\7.0.2\\system.management.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
